@@ -6,10 +6,11 @@ The YouTube Subscriber Notifier for Unity is a personalized application designed
 
 ## Key Features:
 
-Real-Time Subscription Notifications.
+### Real-Time Subscription Notifications
 
 Utilizes the Streamlabs API to receive immediate alerts whenever a new subscription occurs on the connected YouTube channel.
-3D Animation Triggers.
+
+### 3D Animation Triggers
 
 Upon receiving a subscription notification, the application triggers a predefined animation on a 3D model in Unity, creating a visual acknowledgment for the subscriber.
 
